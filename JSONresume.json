@@ -1,0 +1,85 @@
+{
+  "PersonalDetails": {
+    "resume": {
+      "personal_information": {
+        "name": "Revathi Mohan",
+        "address": {
+          "street": "176/39C, K.K.P Street, A.S.Pettai",
+          "city": "Namakkal",
+          "state": "Tamil Nadu",
+          "zip_code": "637 001",
+          "country": "India"
+        }
+      },
+      "contact_details": {
+        "email": "revathi.mohan@example.com",
+        "phone": "+91 1234567890"
+      },
+      "objective": "Aspiring in implementing my skills prominently in completing the tasks and responsibilities in Testing sector.",
+      "skills": [
+        "Technically sophisticated professional with nearly 4 years and 8 months of experience in Testing.",
+        "Adept in end-to-end development of software products from requirement analysis in Testing.",
+        "Deft at mapping the requirements, custom designing solutions, and troubleshooting for complex problems.",
+        "Adroit in providing effective resolution to customer queries related to product and improving relationships with the customer.",
+        "Excellent communication and interpersonal skills."
+      ],
+      "personalDetailsExtended": {
+        "dateOfBirth": "June 03, 1987",
+        "gender": "Female",
+        "nationality": "Indian",
+        "linguisticProficiency": ["Tamil", "English"]
+      },
+      "workExperience": [
+        {
+          "company": "Wipro Technologies",
+          "experience": "4 years 8 months",
+          "projects": [
+            {
+              "name": "BPGIPPENTESTFIXES Project",
+              "description": "Worked in Content Management System (CMS) in Interwoven Teamsite 6.7 and Solaris 10 Operating System. Developed Change Requests (CRs) and performed system and unit testing. Used Perl, JSP, HTML technologies."
+            },
+            {
+              "name": "CUP-CAMS Project",
+              "description": "Manually tested data with the source and destination. Prepared various system and unit test cases. Learned and used Oracle database, UNIX technologies."
+            }
+          ]
+        },
+        {
+          "company": "Freelancer",
+          "experience": "Currently working",
+          "projects": [
+            "Search Engine Evaluation",
+            "Manual Testing",
+            "Data Analysis"
+          ]
+        }
+      ],
+      "education": {
+        "10thStandard": {
+          "year": 2004,
+          "percentage": "97%",
+          "rank": "District 1st Rank Holder"
+        },
+        "12thStandard": {
+          "year": 2006,
+          "percentage": "80.25%"
+        },
+        "bachelorOfEngineering": {
+          "year": "2006 to 2010",
+          "university": "ANNA UNIVERSITY",
+          "percentage": "79.49%",
+          "classification": "First class with distinction"
+        },
+        "additionalDetails": [
+          "National level technical symposium on WI-FI in PGP Engineering College.",
+          "National Level Aptitude Exam conducted by NIIT.",
+          "In-Plant training in BSNL.",
+          "In-Plant training in VISAKA Industries Limited.",
+          "National level technical symposium on Estimation of Capacity Bandwidth in Selvam College of Technology.",
+          "National level conference in Selvam College of Technology."
+        ]
+      },
+      "signature": "REVATHI M"
+    }
+  }
+}
